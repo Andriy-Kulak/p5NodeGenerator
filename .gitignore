@@ -1,0 +1,11 @@
+.DS_Store
+*.jpg
+*.png
+config.json
+key.json
+.eslintrc.json
+node_modules/*
+sketch.js
+gen.html
+demo/*
+images/*

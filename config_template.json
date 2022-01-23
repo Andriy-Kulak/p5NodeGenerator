@@ -1,0 +1,21 @@
+{
+    "bucket_name": "",
+    "ig_user_id": "",
+    "access_token": "",
+    "hashtags": "",
+    "caption": {
+      "start": "",
+      "end": ""
+    },
+    "twitter_credentials": {
+      "app_key": "",
+      "app_secret": "",
+      "access_token": "",
+      "access_secret": "",
+      "caption": {
+        "start": "",
+        "end": ""
+      }
+    }
+  }
+  
